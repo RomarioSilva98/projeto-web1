@@ -1,0 +1,52 @@
+# Ignorar pastas de build (Maven e Gradle)
+target/
+build/
+
+# Ignorar arquivos de configuração sensíveis
+src/main/resources/application.properties
+
+### IDE-Specific Files ###
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+### Outros ###
+# Ignorar arquivos temporários do sistema operacional ou ferramentas
+.DS_Store
+Thumbs.db
+
+# Pastas de upload
+
+
+# Arquivos específicos do projeto
+HELP.md
+mvnw
+mvnw.cmd
+
+# Flutter (para o frontend)
+front_projetowebl/.dart_tool/
+front_projetowebl/.idea/
+front_projetowebl/build/
+front_projetowebl/.metadata
