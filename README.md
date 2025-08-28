@@ -42,11 +42,11 @@ Syncfusion Flutter PDF Viewer - Visualização de partituras
 WebSocket - Comunicação em tempo real
 <br>
 <br>
-<h2>📊 Funcionalidades </h2>
+<h3>📊 Funcionalidades </h3>
 
 <br>
 <br>
-<h2>👤 Gestão de Usuários </h2>
+<h3>👤 Gestão de Usuários </h3>
 
 
 Cadastro e autenticação de músicos
