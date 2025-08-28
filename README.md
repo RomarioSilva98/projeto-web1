@@ -187,7 +187,8 @@ Apenas o responsável pode controlar a sequência durante shows
 
 
 PS: Na pasta uploads tem os pdfs de musicas usados para testar e apresentar o projeto.
-
+<br>
+<br>
 
 👥 Desenvolvido por
 
@@ -195,5 +196,6 @@ Romário
 <br>
 
 📄 Licença
+<br>
 
 Este projeto foi desenvolvido para fins acadêmicos como parte da avaliação da disciplina.
