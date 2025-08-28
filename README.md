@@ -1,20 +1,14 @@
 <h1>🎵 Sistema de Gerenciamento de Bandas - SongFlow</h1>
-<br>
-<br>
 <h2>📋 Descrição do Projeto</h2>
 
 Sistema completo para gerenciamento de repertórios musicais em bandas, com sincronização em tempo real durante apresentações. Desenvolvido como trabalho acadêmico para a disciplina Web I.
-<br>
-<br>
 <h2>🎯 Objetivo</h2>
-<br>
 Gerenciar bandas, músicas, repertórios e membros com sincronização em tempo real durante shows, onde o responsável da banda controla a mudança de músicas para todos os integrantes simultaneamente.
-<br>
-<br>
+
 <h2>🛠️ Tecnologias Utilizadas</h2>
-<br>
-<br>
-Backend
+
+<h3>Backend </h3>
+
 
 Java Spring Boot - Framework principal
 
@@ -27,10 +21,7 @@ MySQL - Banco de dados relacional
 JPA/Hibernate - ORM e persistência de dados
 
 Maven - Gerenciamento de dependências
-<br>
-<br>
-<br>
-<b>Frontend</b>
+<h3>Frontend</h3>
 
 Flutter - Framework multiplataforma
 
@@ -50,9 +41,8 @@ Cadastro e autenticação de músicos
 Perfil de usuário
 
 Participação em múltiplas bandas
-<br>
-<br>
-<h2>🎸 Gestão de Bandas </h2>
+
+<h3>🎸 Gestão de Bandas </h3>
 
 
 Criação e administração de bandas
@@ -62,7 +52,7 @@ Adição/remoção de membros
 Um responsável principal por banda
 <br>
 <br>
-<h2🎶 Gestão de Músicas> </h2>
+<h3>🎶 Gestão de Músicas> </h3>
 
 
 Cadastro de músicas em formato PDF
@@ -70,9 +60,8 @@ Cadastro de músicas em formato PDF
 Armazenamento de partituras e cifras
 
 Catálogo centralizado de músicas
-<br>
-<br>
-<h2>📖 Gestão de Repertórios </h2>
+
+<h3>📖 Gestão de Repertórios </h3>
 
 
 Criação de repertórios para shows
@@ -80,9 +69,8 @@ Criação de repertórios para shows
 Ordenação de músicas no repertório
 
 Adição/remoção não destrutiva de músicas
-<br>
-<br>
-<h2>⚡ Sincronização em Tempo Real </h2>
+
+<h3>⚡ Sincronização em Tempo Real </h3>
 
 
 WebSocket para comunicação durante shows
