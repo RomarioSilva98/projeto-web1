@@ -6,12 +6,12 @@
 Sistema completo para gerenciamento de repertórios musicais em bandas, com sincronização em tempo real durante apresentações. Desenvolvido como trabalho acadêmico para a disciplina Web I.
 <br>
 <br>
-🎯 Objetivo
+<h2>🎯 Objetivo</h2>
 <br>
 Gerenciar bandas, músicas, repertórios e membros com sincronização em tempo real durante shows, onde o responsável da banda controla a mudança de músicas para todos os integrantes simultaneamente.
 <br>
 <br>
-🛠️ Tecnologias Utilizadas
+<h2>🛠️ Tecnologias Utilizadas</h2>
 <br>
 <br>
 Backend
@@ -42,10 +42,12 @@ Syncfusion Flutter PDF Viewer - Visualização de partituras
 WebSocket - Comunicação em tempo real
 <br>
 <br>
-📊 Funcionalidades
+<h2>📊 Funcionalidades </h2>
+
 <br>
 <br>
-👤 Gestão de Usuários
+<h2>👤 Gestão de Usuários </h2>
+
 
 Cadastro e autenticação de músicos
 
@@ -54,7 +56,8 @@ Perfil de usuário
 Participação em múltiplas bandas
 <br>
 <br>
-🎸 Gestão de Bandas
+<h2>🎸 Gestão de Bandas </h2>
+
 
 Criação e administração de bandas
 
@@ -63,7 +66,8 @@ Adição/remoção de membros
 Um responsável principal por banda
 <br>
 <br>
-🎶 Gestão de Músicas
+<h2🎶 Gestão de Músicas> </h2>
+
 
 Cadastro de músicas em formato PDF
 
@@ -72,7 +76,8 @@ Armazenamento de partituras e cifras
 Catálogo centralizado de músicas
 <br>
 <br>
-📖 Gestão de Repertórios
+<h2>📖 Gestão de Repertórios </h2>
+
 
 Criação de repertórios para shows
 
@@ -81,7 +86,8 @@ Ordenação de músicas no repertório
 Adição/remoção não destrutiva de músicas
 <br>
 <br>
-⚡ Sincronização em Tempo Real
+<h2>⚡ Sincronização em Tempo Real </h2>
+
 
 WebSocket para comunicação durante shows
 
@@ -90,7 +96,8 @@ Controle centralizado pelo responsável da banda
 Mudança sincronizada de músicas em todos os dispositivos
 <br>
 <br>
-🗃️ Estrutura do Banco de Dados
+<h2>🗃️ Estrutura do Banco de Dados </h2>
+
 
 Principais Entidades
 
@@ -109,7 +116,8 @@ BandaMusica - Relação banda-música
 RepertorioMusicas - Relação repertório-música
 <br>
 <br>
-🚀 Como Executar:
+<h2>🚀 Como Executar:</h2>
+
 <br>
 <br>
 Pré-requisitos
@@ -136,8 +144,8 @@ flutter pub get
 
 flutter run
 
+<h2>📱 Funcionalidades do App</h2>
 
-📱 Funcionalidades do App
 
 
 Telas Principais
@@ -157,8 +165,8 @@ Visualizador PDF - Exibição de partituras
 Show ao Vivo - Modo de apresentação sincronizado
 
 
+<h2>🎨 Funcionalidades de Sincronização </h2>
 
-🎨 Funcionalidades de Sincronização
 
 Início do Show - Responsável inicia sessão WebSocket
 
@@ -169,8 +177,8 @@ Controle de Músicas - Responsável avança músicas
 Sincronização Automática - Todos dispositivos atualizam simultaneamente
 
 
+<h2>📊 Regras de Negócio </h2>
 
-📊 Regras de Negócio
 
 Um usuário pode participar de múltiplas bandas
 
@@ -187,8 +195,8 @@ Apenas o responsável pode controlar a sequência durante shows
 PS: Na pasta uploads tem os pdfs de musicas usados para testar e apresentar o projeto.
 <br>
 <br>
+<h2>👥 Desenvolvido por</h2>
 
-👥 Desenvolvido por
 
 Romário
 <br>
