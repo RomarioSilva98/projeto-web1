@@ -125,7 +125,7 @@ flutter run</pre>
 
 <p><b>PS:</b> Na pasta uploads tem os pdfs de musicas usados para testar e apresentar o projeto.</p>
 
-<h2>👥 Desenvolvido por</h2>
+<h2>💻 Desenvolvido por</h2>
 <p>Romário</p>
 
 <h2>📄 Licença</h2>
