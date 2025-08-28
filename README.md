@@ -1,4 +1,4 @@
-🎵 Sistema de Gerenciamento de Bandas - SongFlow
+<h1>🎵 Sistema de Gerenciamento de Bandas - SongFlow</h1>h1>
 <br>
 <br>
 📋 Descrição do Projeto
@@ -107,12 +107,11 @@ Participacao - Relação usuário-banda
 BandaMusica - Relação banda-música
 
 RepertorioMusicas - Relação repertório-música
-
-
-
-🚀 Como Executar
-
-
+<br>
+<br>
+🚀 Como Executar:
+<br>
+<br>
 Pré-requisitos
 
 Java JDK 17+
@@ -120,16 +119,15 @@ Java JDK 17+
 Flutter SDK
 
 MySQL Server (ou outro banco, configure no application.properties)
-
-
-
+<br>
+<br>
 Backend (Spring Boot)
 
 cd back/projetowebI
 
 mvn spring-boot:run
-
-
+<br>
+<br>
 Frontend (Flutter)
 
 cd front/projetoweb1
