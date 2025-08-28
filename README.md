@@ -28,8 +28,10 @@ JPA/Hibernate - ORM e persistência de dados
 Maven - Gerenciamento de dependências
 <br>
 <br>
+<br>
 Frontend
-
+<br>
+<br>
 Flutter - Framework multiplataforma
 
 Dart - Linguagem de programação
@@ -37,11 +39,9 @@ Dart - Linguagem de programação
 Syncfusion Flutter PDF Viewer - Visualização de partituras
 
 WebSocket - Comunicação em tempo real
-
-
-
-📊 Funcionalidades
 <br>
+<br>
+📊 Funcionalidades
 <br>
 <br>
 👤 Gestão de Usuários
