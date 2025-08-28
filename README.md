@@ -12,7 +12,8 @@ Gerenciar bandas, músicas, repertórios e membros com sincronização em tempo 
 <br>
 <br>
 🛠️ Tecnologias Utilizadas
-
+<br>
+<br>
 Backend
 
 Java Spring Boot - Framework principal
@@ -51,8 +52,8 @@ Cadastro e autenticação de músicos
 Perfil de usuário
 
 Participação em múltiplas bandas
-
-
+<br>
+<br>
 🎸 Gestão de Bandas
 
 Criação e administração de bandas
@@ -60,8 +61,8 @@ Criação e administração de bandas
 Adição/remoção de membros
 
 Um responsável principal por banda
-
-
+<br>
+<br>
 🎶 Gestão de Músicas
 
 Cadastro de músicas em formato PDF
@@ -69,8 +70,8 @@ Cadastro de músicas em formato PDF
 Armazenamento de partituras e cifras
 
 Catálogo centralizado de músicas
-
-
+<br>
+<br>
 📖 Gestão de Repertórios
 
 Criação de repertórios para shows
@@ -78,8 +79,8 @@ Criação de repertórios para shows
 Ordenação de músicas no repertório
 
 Adição/remoção não destrutiva de músicas
-
-
+<br>
+<br>
 ⚡ Sincronização em Tempo Real
 
 WebSocket para comunicação durante shows
@@ -87,8 +88,8 @@ WebSocket para comunicação durante shows
 Controle centralizado pelo responsável da banda
 
 Mudança sincronizada de músicas em todos os dispositivos
-
-
+<br>
+<br>
 🗃️ Estrutura do Banco de Dados
 
 Principais Entidades
