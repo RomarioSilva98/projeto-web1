@@ -44,6 +44,7 @@ WebSocket - Comunicação em tempo real
 
 📊 Funcionalidades
 
+
 👤 Gestão de Usuários
 
 Cadastro e autenticação de músicos
@@ -72,6 +73,7 @@ Catálogo centralizado de músicas
 
 
 📖 Gestão de Repertórios
+
 Criação de repertórios para shows
 
 Ordenação de músicas no repertório
@@ -184,39 +186,7 @@ Apenas o responsável pode controlar a sequência durante shows
 
 
 
-
-🚧 Estrutura do Projeto
-
-projeto-web1/
-├── 📁 back/                 # Backend Spring Boot
-│   └── 📁 projetowebI/
-│       ├── 📁 src/
-│       │   ├── 📁 main/
-│       │   │   ├── 📁 java/com/projetowebI/
-│       │   │   │   ├── 📁 controllers/     # Controladores REST
-│       │   │   │   ├── 📁 models/          # Entidades JPA
-│       │   │   │   ├── 📁 repositories/    # Repositórios Spring Data
-│       │   │   │   ├── 📁 services/        # Lógica de negócio
-│       │   │   │   ├── 📁 config/          # Configurações
-│       │   │   │   └── 📁 dtos/            # Objetos de transferência
-│       │   │   └── 📁 resources/
-│       │   │       ├── 📁 db/migration/    # Scripts SQL
-│       │   │       └── 📁 static/uploads/  # Arquivos PDF (aqui tem os pdfs de musicas usados para testar e apresentar o projeto)
-│       │   └── 📁 test/                    # Testes
-│       └── 📄 pom.xml                      # Dependências Maven
-│
-└── 📁 front/                # Frontend Flutter
-    └── 📁 projetoweb1/
-        ├── 📁 lib/
-        │   ├── 📁 views/           # Telas do aplicativo
-        │   ├── 📁 models/          # Modelos de dados
-        │   ├── 📁 services/        # Serviços de API
-        │   └── 📁 utils/           # Utilidades
-        ├── 📁 android/             # Configuração Android
-        ├── 📁 ios/                 # Configuração iOS
-        ├── 📁 web/                 # Configuração Web
-        └── 📄 pubspec.yaml         # Dependências Flutter
-
+PS: Na pasta uploads tem os pdfs de musicas usados para testar e apresentar o projeto.
 
         
 👥 Desenvolvido por
