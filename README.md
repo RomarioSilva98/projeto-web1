@@ -191,7 +191,8 @@ PS: Na pasta uploads tem os pdfs de musicas usados para testar e apresentar o pr
 
 👥 Desenvolvido por
 
-Romário/n
+Romário
+<br>
 
 📄 Licença
 
