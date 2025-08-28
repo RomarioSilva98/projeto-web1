@@ -1,4 +1,4 @@
-<h1>🎵 Sistema de Gerenciamento de Bandas - SongFlow</h1>h1>
+<h1>🎵 Sistema de Gerenciamento de Bandas - SongFlow</h1>
 <br>
 <br>
 📋 Descrição do Projeto
