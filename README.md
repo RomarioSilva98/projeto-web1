@@ -1,7 +1,7 @@
 <h1>🎵 Sistema de Gerenciamento de Bandas - SongFlow</h1>
 <br>
 <br>
-📋 Descrição do Projeto
+<h2>📋 Descrição do Projeto</h2>
 
 Sistema completo para gerenciamento de repertórios musicais em bandas, com sincronização em tempo real durante apresentações. Desenvolvido como trabalho acadêmico para a disciplina Web I.
 <br>
