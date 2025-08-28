@@ -30,9 +30,8 @@ Maven - Gerenciamento de dependências
 <br>
 <br>
 <br>
-Frontend
-<br>
-<br>
+<b>Frontend</b>
+
 Flutter - Framework multiplataforma
 
 Dart - Linguagem de programação
@@ -40,12 +39,9 @@ Dart - Linguagem de programação
 Syncfusion Flutter PDF Viewer - Visualização de partituras
 
 WebSocket - Comunicação em tempo real
-<br>
-<br>
-<h3>📊 Funcionalidades </h3>
 
-<br>
-<br>
+<h2>📊 Funcionalidades </h2>
+
 <h3>👤 Gestão de Usuários </h3>
 
 
