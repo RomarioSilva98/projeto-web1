@@ -191,7 +191,8 @@ PS: Na pasta uploads tem os pdfs de musicas usados para testar e apresentar o pr
 
 👥 Desenvolvido por
 
-Romário
+Romário/n
 
 📄 Licença
+
 Este projeto foi desenvolvido para fins acadêmicos como parte da avaliação da disciplina.
