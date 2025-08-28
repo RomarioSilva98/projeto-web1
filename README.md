@@ -84,6 +84,9 @@
   <li>MySQL Server (ou outro banco, configure no application.properties)</li>
 </ul>
 
+<p><b>Clone o repositório:</b></p>
+<pre>git clone https://github.com/RomarioSilva98/projeto-web1.git</pre>
+
 <p><b>Backend (Spring Boot)</b></p>
 <pre>cd back/projetowebI
 mvn spring-boot:run</pre>
