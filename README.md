@@ -26,9 +26,8 @@ MySQL - Banco de dados relacional
 JPA/Hibernate - ORM e persistência de dados
 
 Maven - Gerenciamento de dependências
-
-
-
+<br>
+<br>
 Frontend
 
 Flutter - Framework multiplataforma
