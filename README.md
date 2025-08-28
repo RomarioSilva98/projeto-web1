@@ -41,8 +41,9 @@ WebSocket - Comunicação em tempo real
 
 
 📊 Funcionalidades
-
-
+<br>
+<br>
+<br>
 👤 Gestão de Usuários
 
 Cadastro e autenticação de músicos
