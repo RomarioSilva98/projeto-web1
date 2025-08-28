@@ -3,6 +3,7 @@
 
 
 📋 Descrição do Projeto
+
 Sistema completo para gerenciamento de repertórios musicais em bandas, com sincronização em tempo real durante apresentações. Desenvolvido como trabalho acadêmico para a disciplina Web I.
 
 
@@ -79,6 +80,7 @@ Adição/remoção não destrutiva de músicas
 
 
 ⚡ Sincronização em Tempo Real
+
 WebSocket para comunicação durante shows
 
 Controle centralizado pelo responsável da banda
@@ -218,6 +220,7 @@ projeto-web1/
 
         
 👥 Desenvolvido por
+
 Romário
 
 
